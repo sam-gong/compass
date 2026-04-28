@@ -1,3 +1,11 @@
+---
+title: 黄峥｜完整创业史与认知模型（Claude 版）
+tags:
+  - 创始人
+  - 创业故事
+  - 拼多多
+---
+
 # 黄峥（Colin Huang）完整创业史与认知模型深度调研报告
 
 > 时间跨度：2002—2026 年｜涵盖项目：欧酷网（Ouku）、乐其（Leqee）、乐贝/墨灿（跨境电商）、寻梦游戏（Xinyoudi）、拼好货（Pinhaohuo）、拼多多（Pinduoduo / PDD Holdings）、Temu，以及黄峥退出后投身的食品/生命科学研究
